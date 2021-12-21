@@ -1,0 +1,36 @@
+{
+
+    "contacts":[
+        {
+            "id": "1",
+            "name": "Avinash reddyk",
+            "email": "avinashreddy471@gmail.com",
+            "phonenumber": "9703104087",
+            "salary": "70000",
+            "designation": "software Developer",
+            "address": "Vedanthapuram"
+        },
+
+        {
+            "id": "2",
+            "name": "Girish Reddy K",
+            "email": "avinashreddy471@gmail.com",
+            "phonenumber": "9703104087",
+            "salary": "70000",
+            "designation": "software Developer",
+            "address": "Vedanthapuram"
+        },
+
+        {
+           "id": "3",
+            "name": "Avinash reddyk",
+            "email": "avinashreddy471@gmail.com",
+            "phonenumber": "9703104087",
+            "salary": "70000",
+            "designation": "software Developer",
+            "address": "Vedanthapuram"
+        }
+
+
+    ]
+}
